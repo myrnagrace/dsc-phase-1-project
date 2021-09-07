@@ -33,13 +33,13 @@ Once we gather our information we will determine the recommendations Microsoft n
 
 1. Load the The Numbers, reformat and set a time frame by looking at The Numbers frequency to set the parameters of years to choose from.
 
-<img src='readME images/Freq_of_Movies_2009-2019.png'>
+<img src='images/Freq_of_Movies_2009-2019.png'>
 
 We see that the majority of data is around 2009s-2019s vicinity. So we use the data that is within 2009-2019s.
 
 2. Group the movies that were released in 2009-2019 by month and profit. 
 
-<img src='readME images/Total_Profit_Month.png'>
+<img src='images/Total_Profit_Month.png'>
 
 - Results: The highest profiting months are May, June, November, and December.
 
@@ -47,7 +47,7 @@ We see that the majority of data is around 2009s-2019s vicinity. So we use the d
 
 - Goal: Find which genre generates the most profit using data from The Numbers and IMBD combined 
 
-<img src='readME images/Genre_by_Profit_Avg'>
+<img src='images/Genre_by_Profit_Avg'>
 
 - Results: The highest profiting genre based on the average profit of 2009-2019 is Animation, Adventure, Sci-fi, Fantasy, and Action.
 
@@ -55,7 +55,7 @@ We see that the majority of data is around 2009s-2019s vicinity. So we use the d
 
 - Goal: Use the dataset from question 1 to determine the correlation between production budget and profit.
 
-<img src='readME images/Profit_vs_Production_Budget'>
+<img src='images/Profit_vs_Production_Budget'>
 
 Result: The correlation between Production Budget and Profit is .702 meaning it is a medium positive correlation. Based on the scatterplot, it is best to budget at least 200M-300M to hit the profit range of 2-2.5 billion.
 
